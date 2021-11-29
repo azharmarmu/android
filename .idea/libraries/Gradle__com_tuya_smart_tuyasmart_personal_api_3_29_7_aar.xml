@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-personal-api:3.29.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d23bdbd8b0d865c7983c867e3666b42/jetified-tuyasmart-personal-api-3.29.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d23bdbd8b0d865c7983c867e3666b42/jetified-tuyasmart-personal-api-3.29.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d23bdbd8b0d865c7983c867e3666b42/jetified-tuyasmart-personal-api-3.29.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

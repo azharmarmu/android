@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-cache-api:3.29.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2c7d525a0a49e3c9b62e1fbe5c27d01/jetified-tuyasmart-cache-api-3.29.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2c7d525a0a49e3c9b62e1fbe5c27d01/jetified-tuyasmart-cache-api-3.29.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2c7d525a0a49e3c9b62e1fbe5c27d01/jetified-tuyasmart-cache-api-3.29.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2c7d525a0a49e3c9b62e1fbe5c27d01/jetified-tuyasmart-cache-api-3.29.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

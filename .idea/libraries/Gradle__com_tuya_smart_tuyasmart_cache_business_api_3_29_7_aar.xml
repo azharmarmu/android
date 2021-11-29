@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-cache-business-api:3.29.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02c669727f58e814f183074d1a8d87e3/jetified-tuyasmart-cache-business-api-3.29.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02c669727f58e814f183074d1a8d87e3/jetified-tuyasmart-cache-business-api-3.29.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02c669727f58e814f183074d1a8d87e3/jetified-tuyasmart-cache-business-api-3.29.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

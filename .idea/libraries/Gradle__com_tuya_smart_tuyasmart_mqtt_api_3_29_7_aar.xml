@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-mqtt-api:3.29.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bd9d66df2d9763bd6e2ea309e3039a8/jetified-tuyasmart-mqtt-api-3.29.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bd9d66df2d9763bd6e2ea309e3039a8/jetified-tuyasmart-mqtt-api-3.29.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bd9d66df2d9763bd6e2ea309e3039a8/jetified-tuyasmart-mqtt-api-3.29.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
